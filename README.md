@@ -16,7 +16,6 @@ This Android application serves as a comprehensive car marketplace allowing user
   <img src="https://github.com/ahmaad-ansari/Car-Marketplace-Application/assets/88805493/09326597-a7fa-4647-91df-ee7c52a6a4cc" alt="Screenshot" width="200"/>
   <img src="https://github.com/ahmaad-ansari/Car-Marketplace-Application/assets/88805493/7073b823-df2e-47af-9539-6591615df64b" alt="Screenshot" width="200"/>
   <img src="https://github.com/ahmaad-ansari/Car-Marketplace-Application/assets/88805493/ed9ad276-4f6f-44aa-8c9f-0ddcd4ca2dbc" alt="Screenshot" width="200"/>
-  <img src="https://github.com/ahmaad-ansari/Car-Marketplace-Application/assets/88805493/827a6a78-09ee-40b1-8867-f3f67e4ac493" alt="Screenshot" width="200"/>
 </div>
 
 ## Features
