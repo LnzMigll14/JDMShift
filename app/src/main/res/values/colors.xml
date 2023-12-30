@@ -1,0 +1,25 @@
+<resources>
+    <!-- Primary Blue theme color -->
+    <color name="primaryColor">#0D47A1</color> <!-- Deep, professional blue -->
+    <color name="primaryLightColor">#5472D3</color> <!-- Lighter shade for the primary color -->
+    <color name="primaryDarkColor">#002171</color> <!-- Darker shade for the primary color -->
+
+    <!-- Secondary Blue theme color -->
+    <color name="secondaryColor">#90CAF9</color> <!-- Soft, muted light blue -->
+    <color name="secondaryLightColor">#C3FDFF</color> <!-- Very light shade for the secondary color -->
+    <color name="secondaryDarkColor">#5D99C6</color> <!-- Darker shade for the secondary color -->
+
+    <!-- Surface and Background Colors -->
+    <color name="surfaceColor">#FFFFFF</color> <!-- White surface -->
+    <color name="backgroundColor">#F4F4F4</color> <!-- Light grey background -->
+
+    <!-- Error Colors -->
+    <color name="errorColor">#D32F2F</color> <!-- Standard Material error color -->
+    <color name="onErrorColor">#FFFFFF</color> <!-- White text on error color -->
+
+    <color name="bottom_nav_item_color">@color/selector_bottom_nav_item_color</color>
+
+    <!-- Other necessary colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>

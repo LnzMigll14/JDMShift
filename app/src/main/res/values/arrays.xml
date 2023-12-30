@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="car_makes">
+        <item>Toyota</item>
+        <item>Honda</item>
+        <item>BMW</item>
+        <item>Lexus</item>
+        <item>Nissan</item>
+    </string-array>
+
+    <string-array name="toyota_models">
+        <item>Corolla</item>
+        <item>Camry</item>
+        <item>Rav4</item>
+        <item>Highlander</item>
+        <item>Prius</item>
+        <!-- Add more Toyota models as needed -->
+    </string-array>
+
+    <string-array name="honda_models">
+        <item>Civic</item>
+        <item>Accord</item>
+        <item>CR-V</item>
+        <item>Pilot</item>
+        <item>Odyssey</item>
+        <!-- Add more Honda models as needed -->
+    </string-array>
+
+    <string-array name="bmw_models">
+        <item>3 Series</item>
+        <item>5 Series</item>
+        <item>7 Series</item>
+        <item>X3</item>
+        <item>X5</item>
+        <!-- Add more BMW models as needed -->
+    </string-array>
+
+    <string-array name="lexus_models">
+        <item>IS</item>
+        <item>ES</item>
+        <item>GS</item>
+        <item>RX</item>
+        <item>NX</item>
+        <!-- Add more Lexus models as needed -->
+    </string-array>
+
+    <string-array name="nissan_models">
+        <item>Altima</item>
+        <item>Sentra</item>
+        <item>Maxima</item>
+        <item>Rogue</item>
+        <item>Murano</item>
+        <!-- Add more Nissan models as needed -->
+    </string-array>
+
+
+    <string-array name="car_years">
+        <item>2021</item>
+        <item>2020</item>
+        <item>2019</item>
+        <!-- Add more items as needed -->
+    </string-array>
+
+    <string-array name="transmission_types">
+        <item>Automatic</item>
+        <item>Manual</item>
+        <!-- Add more items as needed -->
+    </string-array>
+
+    <string-array name="drivetrain_types">
+        <item>Front-Wheel-Drive (FWD)</item>
+        <item>Rear-Wheel-Drive (RWD)</item>
+        <item>All-Wheel-Drive (AWD)</item>
+        <item>Four-Wheel-Drive (4WD)</item>
+        <!-- Add more items as needed -->
+    </string-array>
+
+    <string-array name="car_colors">
+        <item>Blue</item>
+        <item>Red</item>
+        <item>Green</item>
+        <item>Black</item>
+        <item>White</item>
+        <item>Silver</item>
+        <item>Gray</item>
+        <item>Yellow</item>
+        <item>Orange</item>
+        <item>Purple</item>
+        <item>Brown</item>
+        <item>Gold</item>
+    </string-array>
+
+    <string-array name="car_doors">
+        <item>2</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6+</item>
+    </string-array>
+
+    <string-array name="car_seats">
+        <item>2</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7+</item>
+    </string-array>
+
+    <string-array name="fuel_types">
+        <item>Gasoline</item>
+        <item>Diesel</item>
+        <item>Electric</item>
+        <!-- Add more items as needed -->
+    </string-array>
+
+    <string-array name="headings_array">
+        <item>Mileage</item>
+        <item>Transmission</item>
+        <item>Drivetrain</item>
+        <item>Fuel Type</item>
+        <item>Color</item>
+        <item>Seats</item>
+        <item>Doors</item>
+        <item>Air Conditioning</item>
+        <item>Navigation System</item>
+        <item>Bluetooth Connectivity</item>
+    </string-array>
+
+</resources>
