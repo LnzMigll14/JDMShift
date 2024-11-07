@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "745216301286",
+    "firebase_url": "https://jdm-shift-default-rtdb.firebaseio.com",
+    "project_id": "jdm-shift",
+    "storage_bucket": "jdm-shift.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745216301286:android:bca618b10a62db0fd0c327",
+        "android_client_info": {
+          "package_name": "com.example.jdmshift"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYeceUougghUTtbd3dd9mDKxlhvURscVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
