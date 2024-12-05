@@ -1,1 +1,30 @@
-
+{
+  "project_info": {
+    "project_number": "1097947543981",
+    "firebase_url": "https://jdm-app-44d1e-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "jdm-app-44d1e",
+    "storage_bucket": "jdm-app-44d1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097947543981:android:b06164aca38636f5108924",
+        "android_client_info": {
+          "package_name": "com.example.carmarketplaceapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuilUIaUiWIeeteuRlhTPRZs8bxPlt4V4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

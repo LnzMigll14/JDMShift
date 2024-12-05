@@ -1,9 +1,9 @@
 <resources>
-    <string name="app_name">Velocity</string>
+    <string name="app_name">JDM Shift</string>
     <string name="logo">Logo</string>
     <string name="email">Email</string>
     <string name="password">Password</string>
-    <string name="login">Login</string>
+    <string name="login">LOGIN</string>
     <string name="sign_up">Sign Up</string>
     <string name="register_prompt">Don\'t have an account? Sign up here.</string>
     <string name="already_have_account">Already have an account? Login here.</string>
