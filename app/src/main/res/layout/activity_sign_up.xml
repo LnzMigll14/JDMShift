@@ -131,6 +131,7 @@
         <TextView
             android:id="@+id/textView_login"
             android:layout_width="wrap_content"
+            android:background="@drawable/button_background"
             android:layout_height="wrap_content"
             android:text="@string/already_have_account"
             android:textColor="@color/white"

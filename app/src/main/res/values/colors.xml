@@ -1,6 +1,6 @@
 <resources>
     <!-- Primary Blue theme color -->
-    <color name="primaryColor">#0D47A1</color> <!-- Deep, professional blue -->
+    <color name="primaryColor">#000000</color> <!-- Deep, professional blue -->
     <color name="primaryLightColor">#5472D3</color> <!-- Lighter shade for the primary color -->
     <color name="primaryDarkColor">#002171</color> <!-- Darker shade for the primary color -->
 
